@@ -34,6 +34,7 @@ for  (let i=0 ; i<7 ; i++)
 // Boucle while (on ne connait pas le nombre d'itérations)
 
 let i = 0
-while (i<7);
+while(i<7) {
     i = i+1;
     console.log(i);
+}
